@@ -31,7 +31,8 @@
       "trailingComma": "all",
       "arrowParens": "always",
       "semi": false,
-      "endOfLine": "auto"
+      "endOfLine": "auto",
+      "react-hooks/exhaustive-deps": "off"
     }],
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
